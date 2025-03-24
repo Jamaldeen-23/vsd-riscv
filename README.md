@@ -3,6 +3,32 @@
 
 ## TASK 1
 
+This is the simple C program performing addition, multiplication and division.
+
+![image](https://github.com/user-attachments/assets/b0db44d9-6d11-4d82-b3bd-d7221dca6506)
+
+when it enters into the compiler, the instruction set will be looking like,
+
+![image](https://github.com/user-attachments/assets/d90b4493-3c36-4038-9b27-c88200cd730a)
+
+The instructions other than pseudo instructions will act on integer numbers.
+
+![image](https://github.com/user-attachments/assets/6cc43153-e978-4d56-ad20-61102b923444)
+
+If any CPU core has both the integer instructions and multiply extension, they are called as 'RV64IM' cpu core.
+
+![image](https://github.com/user-attachments/assets/f190a6bb-42e4-4773-af56-b16bc77a75e3)
+
+This is the simple C program performing floating point addition, multiplication and division.
+
+![image](https://github.com/user-attachments/assets/2f3312d8-18eb-4b74-87ed-8bda0f0b7b80)
+
+This is the instruction set of the above code. F-> single precision, D->Double precision.
+
+![image](https://github.com/user-attachments/assets/684d777f-039e-47fb-ad5f-da850ff9a823)
+
+If a cpu core executes integer, multiplication and floating operations, it is called as 'RV63IMFD' cpu core.
+
 We will try to see the assemble code of the C program that we wrote. When we type this command, it will give a bunch of assembly codes.
 
 ![Screenshot from 2025-03-06 20-36-29](https://github.com/user-attachments/assets/5657c89d-807e-461d-b519-7ad81ddd16bb)
