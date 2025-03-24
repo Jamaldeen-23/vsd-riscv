@@ -39,5 +39,4 @@ In the below codes, some data transfer happening between the memory and the stac
 
 ![image](https://github.com/user-attachments/assets/2ff36c7b-1b18-4aaf-974b-255d793c673e)
 
-in RISC V tool
-![Screenshot from 2025-03-06 20-14-26](https://github.com/user-attachments/assets/88a8bc3e-1d00-45e5-a621-e1eb85e80b4a) 
+
